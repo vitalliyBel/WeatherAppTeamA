@@ -26,6 +26,7 @@ public class SendEmail {
 
         msg.setTo("zuradik1000@gmail.com");
         msg.setFrom("zuradik1000@gmail.com");
+
         msg.setSubject("Привет. Это мое первое тестовое сообщение");
         msg.setText("");
 
