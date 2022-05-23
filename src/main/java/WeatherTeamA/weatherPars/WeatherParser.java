@@ -1,4 +1,4 @@
-package WeatherTeamA.watherParser;
+package WeatherTeamA.weatherPars;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
