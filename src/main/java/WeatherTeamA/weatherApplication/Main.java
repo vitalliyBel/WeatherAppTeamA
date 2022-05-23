@@ -11,6 +11,7 @@ public class Main {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(AppConfig.class);
 
         SendEmail bean = context.getBean(SendEmail.class);
+
         bean.sendMail();
     }
 }
