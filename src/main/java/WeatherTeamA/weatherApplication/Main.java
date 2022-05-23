@@ -1,5 +1,7 @@
-package WeatherTeamA.sendMessage;
+package WeatherTeamA.weatherApplication;
 
+import WeatherTeamA.sendMessage.AppConfig;
+import WeatherTeamA.sendMessage.SendEmail;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
