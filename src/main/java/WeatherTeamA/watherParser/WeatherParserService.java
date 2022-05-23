@@ -4,7 +4,7 @@ import org.jsoup.nodes.Document;
 
 import java.io.IOException;
 
-public interface WeatherParserServ {
+public interface WeatherParserService {
 
 
         Document getPage() throws IOException;
